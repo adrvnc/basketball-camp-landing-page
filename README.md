@@ -15,11 +15,11 @@ A beginner-level project that demonstrates how to use a Bootstrap template to cr
 ## Overview
 ### Screenshot
 
-![Background Generator Screenshot]()
+![Landing Page Screenshot](https://github.com/adrvnc/basketball-camp-landing-page/blob/main/bball-camp-lp.png)
 ### Links
 
-- [GitHub Repo URL](https://github.com/adrvnc/background-generator)
-- [Live Site URL](https://adrvnc.github.io/background-generator/)
+- [GitHub Repo URL](https://github.com/adrvnc/basketball-camp-landing-page)
+- [Live Site URL](https://adrvnc.github.io/basketball-camp-landing-page/)
 ## My Process
 ### Built with 
 
